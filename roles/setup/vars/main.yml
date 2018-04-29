@@ -1,0 +1,28 @@
+# homebrew applications
+applications:
+  - wget
+  - z
+  - unar
+  - postgis
+  - nvm
+  - python
+  - pipenv
+
+cask_applications:
+  - google-chrome
+  - slack
+  - iterm2
+  - 1password
+  - visual-studio-code
+  - spotify
+  - moom
+  - epic-games
+  - mcbopomofo
+  - whatsapp
+  - electronic-wechat
+  - virtualbox
+  - virtualbox-extension-pack
+  - vox
+  - pgadmin4
+  - firefox
+  - libreoffice
